@@ -35,7 +35,7 @@ Save URLs to a file:
 - Supports sitemap index files (sitemapindex)
 - Handles gzipped sitemaps automatically
 - Can export URLs to a file or print to stdout
-- Follows the [Sitemaps XML format](https://www.sitemaps.org/protocol.html) specification
+- Follows the [Sitemaps XML format](https://www.sitemaps.org/protocol.html) protocol
 
 ## Requirements
 
