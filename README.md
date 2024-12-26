@@ -10,7 +10,7 @@ A command-line tool written in Go to extract URLs from XML sitemaps. Supports:
 
 ```bash
 # Clone the repository
-git clone https://github.com/chandlerroth/sitemap-extractor
+git clone https://github.com/chandlerroth/sitemap-extract
 cd sitemap-extractor
 
 # Build the binary
